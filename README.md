@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zameena Sydeen</h1>
+<h1 align="center">Hi 👋 I'm Zameena Sydeen</h1>
 <h3 align="center">🔐 Cybersecurity student passionate about ethical hacking and digital defense.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zameena25&label=Profile%20views&color=0e75b6&style=flat" alt="zameena25" /> </p>
