@@ -1,22 +1,108 @@
-<h1 align="center">Hi 👋, I'm Zameena Sydeen</h1>
-<h3 align="center">🔐Cybersecurity student passionate about devsecops and digital defense.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zameena25&label=Profile%20views&color=0e75b6&style=flat" alt="zameena25" /> </p>
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zameena+Sydeen;Cybersecurity+%7C+DevSecOps+Enthusiast;Building+NovaSphere+%F0%9F%9B%A1%EF%B8%8F;Currently+Learning+AI+Security" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [NovaSphere - Capstone Project](https://github.com/zameena25/Final-Year-Project)
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-- 🌱 I’m currently learning **AI Security**
+</div>
 
-- 📫 How to reach me **zameenasydeen25@gmail.com**
+### About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/g-azraa-zameena-sydeen-929299398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/g-azraa-zameena-sydeen-929299398" height="30" width="40" /></a>
+I'm a cybersecurity student who got hooked on the idea that defense is more interesting than offense — figuring out *how* systems get broken so I can help make sure they don't. Somewhere along the way DevSecOps pulled me in too, because I like the idea of security living inside the build process instead of being bolted on at the end.
+
+- 🎓 Studying networking and cybersecurity, currently juggling coursework alongside my capstone
+- 🔭 Right now I'm deep in **[NovaSphere](https://github.com/zameena25/Final-Year-Project)** - my final-year project, a Ransomware & Insider Threat Detection and Prevention System
+- 🌱 Teaching myself **AI Security** on the side - the intersection of ML and security feels like where a lot of the interesting problems are heading
+- ⚡ Genuinely curious about threat detection, secure-by-design development and anything that lets me automate the boring parts of staying secure
+- 🧠 Deep diving into multiple corners of cyber at once - soaking up as much knowledge as I can across the field
+- 📫 Best way to reach me: **zameenasydeen25@gmail.com**
+
+<br/>
+
+### What I'm Currently Up To
+
+```text
+> whoami
+Cybersecurity student, builder of NovaSphere, permanently mid-way through a AI security rabbit hole.
+
+> currently_learning
+["AI Security", "threat modeling", "secure DevOps pipelines"]
+
+> currently_debugging
+"why my capstone's detection logic flags half my own test traffic as malicious"
+
+> goal_2026
+"land my first cybersecurity internship and actually ship NovaSphere"
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zameena25&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="zameena25 profile views" />
+</div>
+
+---
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/g-azraa-zameena-sydeen-929299398" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zameenasydeen25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/zameena25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zameena25&show_icons=true&locale=en" alt="zameena25" /></p>
+### Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zameena25&" alt="zameena25" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,linux,mysql,mongodb,nodejs,git" alt="skills" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zameena25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="zameena25 stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameena25&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zameena25&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zameena25&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+<!-- Contribution snake animation - requires a one-time GitHub Actions setup, see guide below -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zameena25/zameena25/output/github-contribution-grid-snake.svg" alt="contribution snake animation"/>
+</div>
+
+---
+
+<div align="center">
+
+### A Bit More About Me
+
+If you're a recruiter, fellow student, or just someone who ended up here scrolling - thanks for stopping by. I'm always up for a conversation about cybersecurity, capstone project war stories or just swapping notes on what you're learning. Feel free to reach out, connect on LinkedIn or check out NovaSphere if you're curious what I've been building.
+
+*"The best defense understands the offense."* - something I remind myself every time I get stuck debugging a detection rule.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=100&section=footer" width="100%"/>
+
+</div>
