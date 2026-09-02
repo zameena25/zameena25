@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a cybersecurity student who got hooked on the idea that defense is more interesting than offense — figuring out *how* systems get broken so I can help make sure they don't. Somewhere along the way DevSecOps pulled me in too, because I like the idea of security living inside the build process instead of being bolted on at the end.
+I'm a cybersecurity student who got hooked on the idea that defense is more interesting than offense, figuring out *how* systems get broken so I can help make sure they don't. Somewhere along the way DevSecOps pulled me in too, because I like the idea of security living inside the build process instead of being bolted on at the end.
 
 - 🎓 Studying networking and cybersecurity, currently juggling coursework alongside my capstone
 - 🔭 Right now I'm deep in **[NovaSphere](https://github.com/zameena25/Final-Year-Project)** - my final-year project, a Ransomware & Insider Threat Detection and Prevention System
@@ -74,16 +74,7 @@ Cybersecurity student, builder of NovaSphere, permanently mid-way through a AI s
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zameena25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="zameena25 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameena25&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zameena25&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zameena25&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
